@@ -1,6 +1,5 @@
-# CHANDRESH RAJU
-
-### Full Stack Developer
+# Chandresh Raju
+Full Stack Developer
 
 ## What I know:
 - Backend: Go Lang, NodeJS (Express)
