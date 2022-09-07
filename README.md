@@ -1,9 +1,9 @@
 # CHANDRESH RAJU
 
-Full Stack Developer
+### Full Stack Developer
 
-What I know:
-Backend: Go Lang, NodeJS (Express)
-Frontend: HTML, CSS, JS, React JS
-DB: PostgresQL, MySQL, Oracle
-Devops: Linux, AWS
+## What I know:
+- Backend: Go Lang, NodeJS (Express)
+- Frontend: HTML, CSS, JS, React JS
+- DB: PostgresQL, MySQL, Oracle
+- Devops: Linux, AWS
