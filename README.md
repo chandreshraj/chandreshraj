@@ -5,4 +5,4 @@ Full Stack Developer
 - Backend: Go lang, NodeJS (Express), TypeScript, Java, JavaScript
 - Frontend: HTML, CSS, JS, React JS
 - DB: PostgresQL, MySQL, Oracle
-- Devops: Linux, AWS
+- Devops: Linux, AWS, Docker
