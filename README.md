@@ -6,3 +6,4 @@ Full Stack Developer
 - Frontend: HTML, CSS, JS, React JS
 - DB: PostgresQL, MySQL, Oracle
 - Devops: Linux, AWS, Docker
+- concepts: System Design
