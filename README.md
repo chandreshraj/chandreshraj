@@ -1,5 +1,5 @@
 # Chandresh Raju
-Full Stack Developer
+Software Engineer 3 at Walmart
 
 ## What I know:
 - Backend: Python, NodeJS (Express), TypeScript, JavaScript
