@@ -2,7 +2,7 @@
 Full Stack Developer
 
 ## What I know:
-- Backend: Go lang, NodeJS (Express), TypeScript, Java, JavaScript
+- Backend: Python, NodeJS (Express), TypeScript, JavaScript
 - Frontend: HTML, CSS, JS, React JS
 - DB: PostgresQL, MySQL, Oracle
 - Devops: Linux, AWS, Docker
